@@ -1,0 +1,12 @@
+[ 
+    {"prenom":"THIERNO","nom":"GUIRO","login":"admin","password":"admin","profil":"admin","photo":"admin.jpg"},
+    {"prenom":"joueur","nom":"joueur","login":"joueur","password":"joueur","profil":"joueur","photo":"joueur.jpg"},
+    {"login":"demba","nom":"guiro","prenom":"thierno amadou","password":"coll","profil":"joueur"},
+    {"login":"maf\u00e9","nom":"jul","prenom":"bro","password":"concert","profil":"joueur"},
+    {"login":"thieboudieun","nom":"jul","prenom":"bro","password":"test","profil":"joueur"},
+    {"login":"thiebou2","nom":"jul","prenom":"bro","password":"test","profil":"joueur"},
+    {"login":"jules","nom":"guiro","prenom":"souley","password":"pass","profil":"joueur"},
+    {"login":"true","nom":"guiro","prenom":"bro","password":"ok","profil":"joueur"},
+    {"login":"jul","nom":"jul","prenom":"jul","password":"lock","profil":"joueur","photo":"jul.jpg"},
+    {"login":"aaa","nom":"king","prenom":"bro","password":"ccc","profil":"joueur","photo":"jul.jpg"}
+]
